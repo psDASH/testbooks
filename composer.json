@@ -1,0 +1,10 @@
+{
+  "name": "testbook/pro",
+  "description": "Modern Exam System",
+  "autoload": {
+    "psr-4": {
+      "TestBook\\Pro\\": "includes/"
+    }
+  },
+  "require": {}
+}
